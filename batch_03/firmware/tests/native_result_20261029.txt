@@ -1,0 +1,1 @@
+PASS: exact 3000ms visual-loss hold; repeated invalid does not extend; immediate motor invalid; 500ms link timeout; recovery; tick wrap.
